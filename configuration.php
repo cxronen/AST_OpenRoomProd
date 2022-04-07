@@ -2,7 +2,7 @@
 //configuration.php
 /*
 *This file contains configuration information required for OpenRoom's install.php
-* Partners Demo123
+* Partners Desayuno
 */
 
 //Administrative User
